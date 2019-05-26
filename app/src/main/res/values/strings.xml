@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompassOffline</string>
+    <string name="wind_rose">wind-rose</string>
+    <string name="sun_position">sun-position</string>
+    <string name="BUTTON_refresh">Refresh</string>
+    <string name="TV_information">angle: %.6f°\ntime: %02d:%02d:%02d</string>
+</resources>
