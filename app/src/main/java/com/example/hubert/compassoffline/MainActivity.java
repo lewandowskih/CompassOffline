@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         ImageView iv = findViewById(R.id.imageView2);
-        iv.setRotation(180);
         double angle = (float) (fullseconds / 240.0);
         tv.setText(getString(R.string.TV_information, angle, hours, minutes, seconds));
 
